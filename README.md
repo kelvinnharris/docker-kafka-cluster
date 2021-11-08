@@ -1,5 +1,5 @@
 # docker-kafka-cluster
-docker-kafka-ckuster allows to deploy a kafka multi node cluster (3 brokers, 1 zookeeper) with docker
+docker-kafka-cluster allows to deploy a Kafka multi node cluster with Docker
 
 ## Steps to reproduce
 
